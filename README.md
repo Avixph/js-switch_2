@@ -1,1 +1,1 @@
-# js-switch_2
+# Javascript Switch Statement HW
