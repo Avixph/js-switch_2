@@ -1,1 +1,1 @@
-# Javascript Switch Statement HW
+# Javascript Switch Statement pt.2
